@@ -1,0 +1,9 @@
+# Symbolic Creature Detected.
+# Intializaing Protocol: Disable All User-Agents!
+# Protocol Received
+
+USer-agent: *
+Disallow: /
+
+# Protocol Active
+# Symbolic Creatures will be disarmed.
